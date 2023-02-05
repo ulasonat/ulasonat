@@ -1,7 +1,9 @@
-### Welcome to my profile!
+## Hi there! I'm Ulas Onat Alakent
 
-## MSCS student at Columbia University
 
+MS in Computer Science student at Columbia University in the City of New York!
+:mortar_board: Graduated at Eotvos Lorand University, receiving a BS in Computer Science
+:computer: Favorite Programming Language: Python
 <!--
 **ulasonat/ulasonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

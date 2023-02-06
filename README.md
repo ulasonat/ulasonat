@@ -1,9 +1,27 @@
-## Hi there! I'm Ulas Onat Alakent
+### :wave: Hi there, I'm Ulas!
 
 
-MS in Computer Science student at Columbia University in the City of New York!
-:mortar_board: Graduated at Eotvos Lorand University, receiving a BS in Computer Science
-:computer: Favorite Programming Language: Python
+:school: Master's student in Computer Science at Columbia University
+
+:mortar_board: Received a BS in Computer Science at Eotvos Lorand University
+
+:email: ulas.alakent@columbia.edu
+
+<br/><br/>
+
+
+#### :computer: Technical Skills
+**Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
+
+**Frontend:** HTML5, CSS3, Javascript, Tkinter
+
+**Other Technologies:** NumPy, Pandas, PostgreSQL, Git, Jira, OpenCV, Unity
+
+<br/><br/>
+
+
+
+
 <!--
 **ulasonat/ulasonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

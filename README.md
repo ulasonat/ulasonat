@@ -7,8 +7,6 @@
 
 :email: ulas.alakent@columbia.edu
 
-<br/><br/>
-
 
 #### :computer: Technical Skills
 **Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
@@ -17,8 +15,9 @@
 
 **Other Technologies:** NumPy, Pandas, PostgreSQL, Git, Jira, OpenCV, Unity
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=ulasonat" />
 
 
 

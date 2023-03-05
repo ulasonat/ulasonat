@@ -7,6 +7,8 @@
 
 :email: ulas.alakent@columbia.edu
 
+(347)-515-5280
+
 
 #### :computer: Technical Skills
 **Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
@@ -18,8 +20,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ulasonat" />
-
-
 
 <!--
 **ulasonat/ulasonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

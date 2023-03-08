@@ -1,6 +1,5 @@
 ### :wave: Hi there, I'm Ulas!
 
-
 :school: Master's student in Computer Science at Columbia University
 
 :mortar_board: Received a BS in Computer Science at Eotvos Lorand University

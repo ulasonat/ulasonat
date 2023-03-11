@@ -1,24 +1,19 @@
-### :wave: Hi there, I'm Ulas!
+## Hello, I'm Ulas!
 
-:school: Master's student in Computer Science at Columbia University
+[![](https://img.shields.io/badge/Website-red)](https://ulasonat.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ulasalakent/)
 
-:mortar_board: Received a BS in Computer Science at Eotvos Lorand University
+### Education
 
-:email: ulas.alakent@columbia.edu
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | M.S. in Computer Science | 2022-2023 |
+| <img width="75" src="./ELTE_logo.png" alt="Cubist"></img> | [Eötvös Loránd University](https://www.elte.hu/en/) | B.S. in Computer Science | 2017-2021 |
 
-(347)-515-5280
 
 
-#### :computer: Technical Skills
-**Languages:** Python, C++, Java, C#, SQL, R, Clean, LaTeX, TNSDL
 
-**Frontend:** HTML5, CSS3, Javascript, Tkinter
-
-**Other Technologies:** NumPy, Pandas, PostgreSQL, Git, Jira, OpenCV, Unity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ulasonat" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat&theme=tokyonight" />
 
 <!--
 **ulasonat/ulasonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

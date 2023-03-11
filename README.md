@@ -11,7 +11,7 @@
 | <img width="75" src="./ELTE_logo.png" alt="Cubist"></img> | [Eötvös Loránd University](https://www.elte.hu/en/) | B.S. in Computer Science | 2017-2021 |
 
 
-
+### Activity Status
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulasonat&theme=tokyonight" />
 

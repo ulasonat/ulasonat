@@ -7,7 +7,7 @@
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | M.S. in Computer Science | 2022-2023 |
+| <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | M.S. in Computer Science | 2022-2024 |
 | <img width="75" src="./ELTE_logo.png" alt="Cubist"></img> | [Eötvös Loránd University](https://www.elte.hu/en/) | B.S. in Computer Science | 2017-2021 |
 
 
